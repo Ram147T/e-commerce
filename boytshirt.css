@@ -1,0 +1,37 @@
+.boytshirtouterbox{
+    border: solid 2px;
+    height: 300px;
+    justify-content: space-evenly;
+    display: flex;
+}
+#innerbox1,#innerbox2,#innerbox3{
+    border: solid 2px;
+    height: 280px;
+    width: 300px;
+    margin-top: 5px;
+    
+
+}
+#in1{
+border: solid 2px;
+height: 190px;
+width: 280px;
+margin-top:2px ;
+margin-left: 5px;
+}
+#in2{
+    border: solid 2px;
+    height:70px ;
+    width: 280px;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+img{
+    border: solid 1px;
+    height: 189px;
+    width: 279px;
+}
+span{
+    font-size: larger;
+    font-weight: bold;
+}

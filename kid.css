@@ -1,0 +1,27 @@
+.outkidbox{
+    border: solid 1px black;
+    height: 170px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+
+}
+#kidin1,#kidin2,#kidin3,#kidin4,#kidin5{
+    border: solid 1px;
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+}
+img{
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+}
+figcaption a{
+    color: brown;
+    text-decoration: none;
+}
+figcaption{
+    text-align: center;
+    font-size: larger;
+}

@@ -1,0 +1,37 @@
+#div1{
+    border: solid 1px;
+    height: 720px;
+    width: 1520px;
+    background-image: url(shoppingback.jpg);
+}
+form{
+    border: solid 3px rosybrown;
+    height: 160px;
+    width: 300px;
+    margin-top: 300px;
+    margin-left: 600px;
+    background-color: brown;
+
+}
+input[type="email"],input[type="password"]{
+    background-color:black;
+    width: 293px;
+    color: whitesmoke;
+}
+button {
+    margin-left: 30px;
+    background-color: black;
+
+}
+button a{
+    text-decoration: none;
+    color: rgb(250, 247, 247);
+}
+span a{
+    margin-left: 70px;
+    color: black;
+    text-decoration: none;
+}
+button:hover{
+    background-color:  rgb(22, 210, 210);
+}
